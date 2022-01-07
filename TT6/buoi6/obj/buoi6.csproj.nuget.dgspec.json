@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Edit ASPdotNET_CORE\\TT6\\buoi6\\buoi6.csproj": {}
+    "D:\\KTPM\\24_12_21 Do_an\\Asp_Doan\\Do_an_QA_Test\\TT6\\buoi6\\buoi6.csproj": {}
   },
   "projects": {
-    "D:\\Edit ASPdotNET_CORE\\TT6\\buoi6\\buoi6.csproj": {
+    "D:\\KTPM\\24_12_21 Do_an\\Asp_Doan\\Do_an_QA_Test\\TT6\\buoi6\\buoi6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Edit ASPdotNET_CORE\\TT6\\buoi6\\buoi6.csproj",
+        "projectUniqueName": "D:\\KTPM\\24_12_21 Do_an\\Asp_Doan\\Do_an_QA_Test\\TT6\\buoi6\\buoi6.csproj",
         "projectName": "buoi6",
-        "projectPath": "D:\\Edit ASPdotNET_CORE\\TT6\\buoi6\\buoi6.csproj",
+        "projectPath": "D:\\KTPM\\24_12_21 Do_an\\Asp_Doan\\Do_an_QA_Test\\TT6\\buoi6\\buoi6.csproj",
         "packagesPath": "C:\\Users\\kendu\\.nuget\\packages\\",
-        "outputPath": "D:\\Edit ASPdotNET_CORE\\TT6\\buoi6\\obj\\",
+        "outputPath": "D:\\KTPM\\24_12_21 Do_an\\Asp_Doan\\Do_an_QA_Test\\TT6\\buoi6\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

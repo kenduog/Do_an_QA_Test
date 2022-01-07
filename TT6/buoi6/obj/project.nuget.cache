@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5d5HcqpIsCmJvFAYHXAC/OpTXb1EIV6pBiT5hhSUUZ2cRUOCqjE+yIE9/EyPsH/nrJftPzpFeNaqRsu81i9bVw==",
+  "dgSpecHash": "7FNPXVJN6jCdnqHH6/XVhzzbqezlKrqPuN/SAsUvGxcR/pKCGAnh5FqP7VB4RCLvHtAmKha/Qx/6uBBEUF4lQg==",
   "success": true,
-  "projectFilePath": "D:\\Edit ASPdotNET_CORE\\TT6\\buoi6\\buoi6.csproj",
+  "projectFilePath": "D:\\KTPM\\24_12_21 Do_an\\Asp_Doan\\Do_an_QA_Test\\TT6\\buoi6\\buoi6.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kendu\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\kendu\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.0.0\\microsoft.aspnetcore.hosting.abstractions.2.0.0.nupkg.sha512",
