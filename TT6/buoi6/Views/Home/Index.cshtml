@@ -1,0 +1,47 @@
+﻿@{
+    ViewData["Title"] = "Trang Admin";
+    string username;
+    if(ViewBag.AccountUsername!=null)
+    {
+        username = ViewBag.AccountUsername;
+    }
+    else
+    {
+       username= "Khách";
+    }
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome @username</h1>
+    <p>Trang Admin</p>
+</div>
+
+<div>
+    <div>Chức năng quản lý</div>
+    <ul>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Accounts" asp-action="Index">Accounts</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Products" asp-action="Index">Products</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="ProductTypes" asp-action="Index">ProductTypes</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Invoices" asp-action="Index">Invoices</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="InvoiceDetails" asp-action="Index">InvoiceDetails</a>
+        </li>
+    </ul>
+</div>
+<div>
+    <a class="nav-link text-dark" asp-area="" asp-controller="Invoices" asp-action="Hoadonmoinhattrongtuan">Danh sách hóa đơn mới nhất trong tuần</a>
+</div>
+<div>
+    <a class="nav-link text-dark" asp-area="" asp-controller="Invoices" asp-action="Sotienkhachhangdachitra">Tổng số tiền khách hàng chi trả</a>
+</div>
+<div>
+    <a class="nav-link text-dark" asp-area="" asp-controller="InvoiceDetails" asp-action="Topsanphambanchay">Top sản phẩm bán chạy</a>
+</div>

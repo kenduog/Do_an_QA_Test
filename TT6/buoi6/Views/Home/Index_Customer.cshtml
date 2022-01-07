@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Trang Khách Hàng";
+    string username;
+    if(ViewBag.AccountUsername!=null)
+    {
+        username = ViewBag.AccountUsername;
+    }
+    else
+    {
+        username= "Khách";
+    }
+    Layout = "_LayoutCustomer";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome @username</h1>
+    <p>Trang Khách Hàng</p>
+</div>
