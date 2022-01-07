@@ -25,6 +25,16 @@ namespace buoi6.Controllers
             var eshopContext = _context.Invoice.Include(i => i.Account);
             return View(await eshopContext.ToListAsync());
         }
+        public async Task<IActionResult> Doạnhthutheongay()
+        {
+            var eshopContext = _context.Invoice.Include(i => i.Account);
+            return View(await eshopContext.ToListAsync());
+        }
+        public async Task<IActionResult> Doạnhthutheotuan()
+        {
+            var eshopContext = _context.Invoice.Include(i => i.Account);
+            return View(await eshopContext.ToListAsync());
+        }
         public async Task<IActionResult> Hoadonmoinhattrongtuan()
         {
             var Hoadonmoinhattrongtuan = from inv in _context.Invoice.Include(i => i.Account)

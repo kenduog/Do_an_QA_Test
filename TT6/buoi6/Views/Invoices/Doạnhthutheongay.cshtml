@@ -1,0 +1,45 @@
+﻿@model IEnumerable<buoi6.Models.Invoice>
+
+@{
+    ViewData["Title"] = "Index";
+    DateTime now = DateTime.Now;
+    var doanhthungay = from d in Model
+                       where d.IsuedDate.Day == now.Day && d.IsuedDate.Month == now.Month && d.IsuedDate.Year == now.Year
+                       group d by d.IsuedDate.Day == now.Day&& d.IsuedDate.Month==now.Month&&d.IsuedDate.Year==now.Year into gr
+                       let dtd = gr.Sum(t=>t.Total)
+                       select new
+                       {
+                           homnay = "Ngày " + now.Day + " tháng " + now.Month + " năm " + now.Year,
+                           doanhthu = dtd,
+                       };
+
+}
+
+<h1>Doanh thu hôm nay</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Ngày
+            </th>
+            <th>
+                Doanh thu
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in doanhthungay)
+        {
+            <tr>
+                <th>
+                    @Html.DisplayFor(modelItem => item.homnay)
+                </th>
+                <th>
+                    @Html.DisplayFor(modelItem => item.doanhthu)
+                </th>
+            </tr>
+        }
+    </tbody>
+</table>

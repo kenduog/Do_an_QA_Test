@@ -1,0 +1,63 @@
+﻿@model IEnumerable<buoi6.Models.Invoice>
+
+@{
+    ViewData["Title"] = "Index";
+    DateTime now = DateTime.Now;
+    var dayOfWeek = now.DayOfWeek;
+    DateTime monday = DateTime.Now;
+    if (dayOfWeek == DayOfWeek.Sunday)
+    {
+        //xét chủ nhật là đầu tuần thì thứ 2 là ngày kế tiếp nên sẽ tăng 1 ngày  
+        //return date.AddDays(1);  
+
+        // nếu xét chủ nhật là ngày cuối tuần  
+        monday = now.AddDays(-6);
+    }
+    else
+    {
+        // nếu không phải thứ 2 thì lùi ngày lại cho đến thứ 2  
+        int offset = dayOfWeek - DayOfWeek.Monday;
+        monday = now.AddDays(-offset);
+    }
+
+
+    var doanhthutuan = from w in Model
+                       where w.IsuedDate >= monday && w.IsuedDate <= now
+                       group w by w.IsuedDate >= monday && w.IsuedDate <= now into gr
+                       let dtt = gr.Sum(top => top.Total)
+                       select new
+                       {
+                           tuan = "Tuần hiện tại",
+                           doanhthu = dtt,
+                       };
+
+}
+
+<h1>Doanh thu hôm nay</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Tuần
+            </th>
+            <th>
+                Doanh thu
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in doanhthutuan)
+        {
+            <tr>
+                <th>
+                    @Html.DisplayFor(modelItem => item.tuan)
+                </th>
+                <th>
+                    @Html.DisplayFor(modelItem => item.doanhthu)
+                </th>
+            </tr>
+        }
+    </tbody>
+</table>
