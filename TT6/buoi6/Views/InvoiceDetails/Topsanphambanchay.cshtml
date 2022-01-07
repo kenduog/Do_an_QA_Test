@@ -11,6 +11,7 @@
                  product = gr.Key,
                  soluong = quatity
              };
+    Layout = "~/Views/Shared/_Layout_admin.cshtml";
 }
 
 <h1>Top sản phẩm bán chạy</h1>
@@ -28,8 +29,8 @@
         </tr>
     </thead>
     <tbody>
-        @foreach(var item in kq)
-            {
+        @foreach (var item in kq)
+        {
         <tr>
             <th>
                 @Html.DisplayFor(modelItem => item.product)
