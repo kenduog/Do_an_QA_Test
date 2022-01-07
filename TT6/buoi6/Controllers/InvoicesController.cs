@@ -39,6 +39,37 @@ namespace buoi6.Controllers
             var eshopContext = _context.Invoice.Include(i => i.Account);
             return View(await eshopContext.ToListAsync());
         }
+        public async Task<IActionResult> Doanhthutheotuan()
+        {
+            DateTime now = DateTime.Now;
+
+            var dayOfWeek = now.DayOfWeek;
+            DateTime monday = DateTime.Now;
+            if (dayOfWeek == DayOfWeek.Sunday)
+            {
+                //xét chủ nhật là đầu tuần thì thứ 2 là ngày kế tiếp nên sẽ tăng 1 ngày  
+                //return date.AddDays(1);  
+
+                // nếu xét chủ nhật là ngày cuối tuần  
+                monday = now.AddDays(-6);
+            }
+            else
+            {
+                // nếu không phải thứ 2 thì lùi ngày lại cho đến thứ 2  
+                int offset = dayOfWeek - DayOfWeek.Monday;
+                monday = now.AddDays(-offset);
+            }
+
+
+            var eshopContext = _context.Invoice.Include(i => i.Account).Where(w => w.IsuedDate >= monday && w.IsuedDate <= now);
+            return View(await eshopContext.ToListAsync());
+        }
+        public async Task<IActionResult> Doanhthutheongay()
+        {
+            DateTime now = DateTime.Now;
+            var eshopContext = _context.Invoice.Include(i => i.Account).Where(w => w.IsuedDate.Day ==now.Day && w.IsuedDate.Month==now.Month && w.IsuedDate.Year==now.Year);
+            return View(await eshopContext.ToListAsync());
+        }
         public async Task<IActionResult> ByTotalRange()
         {
             var eshopContext = _context.Invoice.Include(i => i.Account).Where(s=> s.Total >= 400000 && s.Total <= 600000);
@@ -209,6 +240,6 @@ namespace buoi6.Controllers
         private bool InvoiceExists(int id)
         {
             return _context.Invoice.Any(e => e.Id == id);
-        }
+        } 
     }
 }
