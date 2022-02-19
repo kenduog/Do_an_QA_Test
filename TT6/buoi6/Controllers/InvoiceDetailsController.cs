@@ -31,6 +31,26 @@ namespace buoi6.Controllers
             var eshopContext = _context.InvoiceDetails.Include(i => i.Invoice).Include(i => i.Product);
             return View(await eshopContext.ToListAsync());
         }
+        public async Task<IActionResult> Doanhsotheongay()
+        {
+            var eshopContext = _context.InvoiceDetails.Include(i => i.Invoice).Include(i => i.Product);
+            return View(await eshopContext.ToListAsync());
+        }
+        public async Task<IActionResult> Doanhsotheotuan()
+        {
+            var eshopContext = _context.InvoiceDetails.Include(i => i.Invoice).Include(i => i.Product);
+            return View(await eshopContext.ToListAsync());
+        }
+        public async Task<IActionResult> Doanhsotheothang()
+        {
+            var eshopContext = _context.InvoiceDetails.Include(i => i.Invoice).Include(i => i.Product);
+            return View(await eshopContext.ToListAsync());
+        }
+        public async Task<IActionResult> Doanhsotheonam()
+        {
+            var eshopContext = _context.InvoiceDetails.Include(i => i.Invoice).Include(i => i.Product);
+            return View(await eshopContext.ToListAsync());
+        }
         // GET: InvoiceDetails/Details/5
         public async Task<IActionResult> Details(int? id)
         {

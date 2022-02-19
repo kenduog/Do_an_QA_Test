@@ -1,13 +1,13 @@
 ﻿@{
     ViewData["Title"] = "Trang Admin";
     string username;
-    if(ViewBag.AccountUsername!=null)
+    if (ViewBag.AccountUsername != null)
     {
         username = ViewBag.AccountUsername;
     }
     else
     {
-       username= "Khách";
+        username = "Khách";
     }
 }
 
@@ -46,6 +46,12 @@
             <a class="nav-link text-dark" asp-area="" asp-controller="Invoices" asp-action="Doạnhthutheotuan">Doanh thu theo tuần</a>
         </li>
         <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Invoices" asp-action="Doạnhthutheothang">Doanh thu theo tháng</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Invoices" asp-action="Doạnhthutheonam">Doanh thu theo năm</a>
+        </li>
+        <li class="nav-item">
             <a class="nav-link text-dark" asp-area="" asp-controller="ProductTypes" asp-action="Index">ProductTypes</a>
         </li>
         <li class="nav-item">
@@ -62,6 +68,21 @@
 <div>
     <a class="nav-link text-dark" asp-area="" asp-controller="Invoices" asp-action="Sotienkhachhangdachitra">Tổng số tiền khách hàng chi trả</a>
 </div>
-<div>
-    <a class="nav-link text-dark" asp-area="" asp-controller="InvoiceDetails" asp-action="Topsanphambanchay">Top sản phẩm bán chạy</a>
-</div>
+<div>Xem doanh số</div>
+<ul>
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="" asp-controller="InvoiceDetails" asp-action="Doanhsotheongay">Doanh số theo ngày</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="" asp-controller="InvoiceDetails" asp-action="Doanhsotheotuan">Doanh số theo tuần</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="" asp-controller="InvoiceDetails" asp-action="Doanhsotheothang">Doanh số theo tháng</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="" asp-controller="InvoiceDetails" asp-action="Doanhsotheonam">Doanh số theo năm</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="" asp-controller="InvoiceDetails" asp-action="Topsanphambanchay">Top sản phẩm bán chạy</a>
+    </li>
+ </ul>
