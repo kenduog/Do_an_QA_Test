@@ -1,70 +1,42 @@
 ﻿@{
+    Layout = "~/Views/Shared/_Layout_admin.cshtml";
     ViewData["Title"] = "Trang Admin";
     string username;
-    if(ViewBag.AccountUsername!=null)
+    if (ViewBag.AccountUsername != null)
     {
         username = ViewBag.AccountUsername;
     }
     else
     {
-        username= "Khách";
+        username = "Khách";
     }
-
-    Layout = "~/Views/Shared/_Layout_admin.cshtml";
 }
 
 <div class="text-center">
     <h1 class="display-4">Welcome @username</h1>
-    <h3>Trang Admin</h3>
+    <p>Trang Admin</p>
 </div>
 
-@*<div>
-    <div>Chức năng quản lý</div>
-    <ul>
-        <li class="nav-item">
-            <a class="nav-link text-dark" asp-area="" asp-controller="Accounts" asp-action="Index">Accounts</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link text-dark" asp-area="" asp-controller="Products" asp-action="Index">Products</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link text-dark" asp-area="" asp-controller="ProductTypes" asp-action="Index">ProductTypes</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link text-dark" asp-area="" asp-controller="Invoices" asp-action="Index">Invoices</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link text-dark" asp-area="" asp-controller="InvoiceDetails" asp-action="Index">InvoiceDetails</a>
-        </li>
-    </ul>
-</div>*@
-<div>
-    <h1>Xem doanh thu</h1>
-    <ul>
 
-        <li class="nav-item">
-            <a class="accept-policy" asp-area="" asp-controller="Invoices" asp-action="Doanhthutheongay"><h3>- Doanh thu theo ngày</h3></a>
-        </li>
-        <li class="nav-item">
-            <a class="accept-policy" asp-area="" asp-controller="Invoices" asp-action="Doanhthutheotuan"><h3>- Doanh thu theo tuần</h3></a>
-        </li>
-        <li class="nav-item">
-            <a class="accept-policy" asp-area="" asp-controller="ProductTypes" asp-action="Index"><h3>- ProductTypes</h3></a>
-        </li>
-        <li class="nav-item">
-            <a class="accept-policy" asp-area="" asp-controller="Invoices" asp-action="Index"><h3>- Invoices</h3></a>
-        </li>
-        <li class="nav-item">
-            <a class="accept-policy" asp-area="" asp-controller="InvoiceDetails" asp-action="Index"><h3>- InvoiceDetails</h3></a>
-        </li>
-    </ul>
+<div>
+    <div> <a asp-controller="InvoiceDetails" asp-action="xemdoanhthu">Xem doanh thu</a></div>
+</div>
+
+<div>
+    <div><a asp-controller="InvoiceDetails" asp-action="xemdoanhso">Xem doanh số</a></div>
+</div>
+
+<div>
+    <a class="nav-link text-dark" asp-area="" asp-controller="Invoices" asp-action="Hoadonmoinhattrongtuan">Danh sách hóa đơn mới nhất trong tuần</a>
 </div>
 <div>
-    <a class="accept-policy" asp-area="" asp-controller="Invoices" asp-action="Hoadonmoinhattrongtuan"><h3>- Danh sách hóa đơn mới nhất trong tuần</h3></a>
+    <a class="nav-link text-dark" asp-area="" asp-controller="Invoices" asp-action="Sotienkhachhangdachitra">Tổng số tiền khách hàng chi trả</a>
 </div>
 <div>
-    <a class="accept-policy" asp-area="" asp-controller="Invoices" asp-action="Sotienkhachhangdachitra"><h3>- Tổng số tiền khách hàng chi trả</h3></a>
+    <a class="nav-link text-dark" asp-area="" asp-controller="InvoiceDetails" asp-action="Topsanphambanchay">Top sản phẩm bán chạy</a>
 </div>
-<div>
-    <a class="accept-policy" asp-area="" asp-controller="InvoiceDetails" asp-action="Topsanphambanchay"><h3>- Top sản phẩm bán chạy</h3></a>
-</div>
+
+
+
+
+

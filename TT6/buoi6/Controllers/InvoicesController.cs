@@ -19,8 +19,32 @@ namespace buoi6.Controllers
             _context = context;
         }
 
+        
+
+
+
         // GET: Invoices
         public async Task<IActionResult> Index()
+        {
+            var eshopContext = _context.Invoice.Include(i => i.Account);
+            return View(await eshopContext.ToListAsync());
+        }
+        public async Task<IActionResult> Doạnhthutheongay()
+        {
+            var eshopContext = _context.Invoice.Include(i => i.Account);
+            return View(await eshopContext.ToListAsync());
+        }
+        public async Task<IActionResult> Doạnhthutheotuan()
+        {
+            var eshopContext = _context.Invoice.Include(i => i.Account);
+            return View(await eshopContext.ToListAsync());
+        }
+        public async Task<IActionResult> Doạnhthutheothang()
+        {
+            var eshopContext = _context.Invoice.Include(i => i.Account);
+            return View(await eshopContext.ToListAsync());
+        }
+        public async Task<IActionResult> Doạnhthutheonam()
         {
             var eshopContext = _context.Invoice.Include(i => i.Account);
             return View(await eshopContext.ToListAsync());
@@ -37,37 +61,6 @@ namespace buoi6.Controllers
             int Sotienkhachhangdachitra = _context.Invoice.Sum(inv => inv.Total);
             ViewBag.Sotienkhachhangdachitra = Sotienkhachhangdachitra.ToString();
             var eshopContext = _context.Invoice.Include(i => i.Account);
-            return View(await eshopContext.ToListAsync());
-        }
-        public async Task<IActionResult> Doanhthutheotuan()
-        {
-            DateTime now = DateTime.Now;
-
-            var dayOfWeek = now.DayOfWeek;
-            DateTime monday = DateTime.Now;
-            if (dayOfWeek == DayOfWeek.Sunday)
-            {
-                //xét chủ nhật là đầu tuần thì thứ 2 là ngày kế tiếp nên sẽ tăng 1 ngày  
-                //return date.AddDays(1);  
-
-                // nếu xét chủ nhật là ngày cuối tuần  
-                monday = now.AddDays(-6);
-            }
-            else
-            {
-                // nếu không phải thứ 2 thì lùi ngày lại cho đến thứ 2  
-                int offset = dayOfWeek - DayOfWeek.Monday;
-                monday = now.AddDays(-offset);
-            }
-
-
-            var eshopContext = _context.Invoice.Include(i => i.Account).Where(w => w.IsuedDate >= monday && w.IsuedDate <= now);
-            return View(await eshopContext.ToListAsync());
-        }
-        public async Task<IActionResult> Doanhthutheongay()
-        {
-            DateTime now = DateTime.Now;
-            var eshopContext = _context.Invoice.Include(i => i.Account).Where(w => w.IsuedDate.Day ==now.Day && w.IsuedDate.Month==now.Month && w.IsuedDate.Year==now.Year);
             return View(await eshopContext.ToListAsync());
         }
         public async Task<IActionResult> ByTotalRange()
@@ -240,6 +233,6 @@ namespace buoi6.Controllers
         private bool InvoiceExists(int id)
         {
             return _context.Invoice.Any(e => e.Id == id);
-        } 
+        }
     }
 }

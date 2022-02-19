@@ -20,6 +20,16 @@ namespace buoi6.Controllers
             _context = context;
         }
 
+
+        public async Task<IActionResult> xemdoanhthu()
+        {
+            return View();
+        }
+        public async Task<IActionResult> xemdoanhso()
+        {
+            return View();
+        }
+
         // GET: InvoiceDetails
         public async Task<IActionResult> Index()
         {
@@ -27,6 +37,26 @@ namespace buoi6.Controllers
             return View(await eshopContext.ToListAsync());
         }
         public async Task<IActionResult> Topsanphambanchay()
+        {
+            var eshopContext = _context.InvoiceDetails.Include(i => i.Invoice).Include(i => i.Product);
+            return View(await eshopContext.ToListAsync());
+        }
+        public async Task<IActionResult> Doanhsotheongay()
+        {
+            var eshopContext = _context.InvoiceDetails.Include(i => i.Invoice).Include(i => i.Product);
+            return View(await eshopContext.ToListAsync());
+        }
+        public async Task<IActionResult> Doanhsotheotuan()
+        {
+            var eshopContext = _context.InvoiceDetails.Include(i => i.Invoice).Include(i => i.Product);
+            return View(await eshopContext.ToListAsync());
+        }
+        public async Task<IActionResult> Doanhsotheothang()
+        {
+            var eshopContext = _context.InvoiceDetails.Include(i => i.Invoice).Include(i => i.Product);
+            return View(await eshopContext.ToListAsync());
+        }
+        public async Task<IActionResult> Doanhsotheonam()
         {
             var eshopContext = _context.InvoiceDetails.Include(i => i.Invoice).Include(i => i.Product);
             return View(await eshopContext.ToListAsync());

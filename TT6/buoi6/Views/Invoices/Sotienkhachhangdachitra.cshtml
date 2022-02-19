@@ -1,6 +1,7 @@
 ﻿@model IEnumerable<buoi6.Models.Invoice>
 
 @{
+    Layout = "~/Views/Shared/_Layout_admin.cshtml";
     ViewData["Title"] = "Index";
     string Sotienkhachhangdachitra;
     if (ViewBag.Sotienkhachhangdachitra != null)
@@ -11,7 +12,6 @@
     {
         Sotienkhachhangdachitra = "Không có hóa đơn";
     }
-    Layout = "~/Views/Shared/_Layout_admin.cshtml";
 }
 
 <h1>Index</h1>

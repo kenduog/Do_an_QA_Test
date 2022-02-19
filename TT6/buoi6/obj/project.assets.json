@@ -7448,19 +7448,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nhuoc\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\KTPM\\Layout\\TT6\\buoi6\\buoi6.csproj",
+      "projectUniqueName": "C:\\QuangTrung\\KTPM\\Do_an_QA_Test\\TT6\\buoi6\\buoi6.csproj",
       "projectName": "buoi6",
-      "projectPath": "D:\\KTPM\\Layout\\TT6\\buoi6\\buoi6.csproj",
-      "packagesPath": "C:\\Users\\nhuoc\\.nuget\\packages\\",
-      "outputPath": "D:\\KTPM\\Layout\\TT6\\buoi6\\obj\\",
+      "projectPath": "C:\\QuangTrung\\KTPM\\Do_an_QA_Test\\TT6\\buoi6\\buoi6.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\QuangTrung\\KTPM\\Do_an_QA_Test\\TT6\\buoi6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\nhuoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7515,6 +7515,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.13, 5.0.13]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -7523,7 +7529,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

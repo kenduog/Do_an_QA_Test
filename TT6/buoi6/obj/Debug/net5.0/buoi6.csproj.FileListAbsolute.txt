@@ -356,7 +356,8 @@ D:\KTPM\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\V
 D:\KTPM\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Create.cshtml.g.cs
 D:\KTPM\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Delete.cshtml.g.cs
 D:\KTPM\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Details.cshtml.g.cs
-D:\KTPM\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Doanhthutheongay.cshtml.g.cs
+D:\KTPM\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Doạnhthutheongay.cshtml.g.cs
+D:\KTPM\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Doạnhthutheotuan.cshtml.g.cs
 D:\KTPM\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Edit.cshtml.g.cs
 D:\KTPM\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Hoadonmoinhattrongtuan.cshtml.g.cs
 D:\KTPM\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Index.cshtml.g.cs
@@ -389,202 +390,410 @@ D:\KTPM\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.d
 D:\KTPM\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\ref\buoi6.dll
 D:\KTPM\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.pdb
 D:\KTPM\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.genruntimeconfig.cache
-D:\KTPM\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Doanhthutheotuan.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\appsettings.Development.json
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\appsettings.json
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\buoi6.exe
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\buoi6.deps.json
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\buoi6.runtimeconfig.json
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\buoi6.runtimeconfig.dev.json
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\buoi6.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\ref\buoi6.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\buoi6.pdb
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\buoi6.Views.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\buoi6.Views.pdb
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\Humanizer.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\Microsoft.Identity.Client.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\Newtonsoft.Json.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\System.Composition.AttributedModel.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\System.Composition.Convention.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\System.Composition.Hosting.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\System.Composition.Runtime.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\System.Composition.TypedParts.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\System.Runtime.Caching.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-D:\KTPM\Layout\TT6\buoi6\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\buoi6.csproj.AssemblyReference.cache
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\buoi6.GeneratedMSBuildEditorConfig.editorconfig
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\buoi6.AssemblyInfoInputs.cache
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\buoi6.AssemblyInfo.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\buoi6.csproj.CoreCompileInputs.cache
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\buoi6.MvcApplicationPartsAssemblyInfo.cache
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\buoi6.RazorAssemblyInfo.cache
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\buoi6.RazorAssemblyInfo.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\staticwebassets\buoi6.StaticWebAssets.Manifest.cache
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\staticwebassets\buoi6.StaticWebAssets.xml
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\scopedcss\bundle\buoi6.styles.css
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\buoi6.TagHelpers.input.cache
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\buoi6.TagHelpers.output.cache
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\buoi6.RazorCoreGenerate.cache
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Accounts\ByAddress.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Accounts\ByEmail.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Accounts\Create.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Accounts\Create_customer.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Accounts\Delete.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Accounts\Details.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Accounts\Edit.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Accounts\Index.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Accounts\Login.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Carts\Add.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Carts\Create.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Carts\Delete.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Carts\Details.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Carts\Edit.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Carts\Index.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Home\Index_Customer.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\InvoiceDetails\Create.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\InvoiceDetails\Delete.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\InvoiceDetails\Details.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\InvoiceDetails\Edit.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\InvoiceDetails\Index.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\InvoiceDetails\Topsanphambanchay.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\ByAccountAddress.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\ByAccountName.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\ByProduct.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\ByProductType.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\ByTotalRange.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Create.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Delete.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Details.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Doanhthutheongay.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Doanhthutheotuan.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Edit.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Hoadonmoinhattrongtuan.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Index.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Sotienkhachhangdachitra.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Products\ByPriceRange.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Products\ByProductType.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Products\ByStock.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Products\Create.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Products\Delete.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Products\Details.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Products\Search.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\ProductTypes\Create.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\ProductTypes\Delete.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\ProductTypes\Details.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\ProductTypes\Edit.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\ProductTypes\Index.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Shared\_LayoutCustomer.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Shared\_Layout_admin.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\buoi6.RazorTargetAssemblyInfo.cache
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\buoi6.RazorTargetAssemblyInfo.cs
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\buoi6.Views.pdb
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\buoi6.csproj.CopyComplete
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\buoi6.dll
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\ref\buoi6.dll
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\buoi6.pdb
-D:\KTPM\Layout\TT6\buoi6\obj\Debug\net5.0\buoi6.genruntimeconfig.cache
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.csproj.AssemblyReference.cache
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.AssemblyInfoInputs.cache
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.AssemblyInfo.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.csproj.CoreCompileInputs.cache
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.MvcApplicationPartsAssemblyInfo.cache
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.RazorAssemblyInfo.cache
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.RazorAssemblyInfo.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\staticwebassets\buoi6.StaticWebAssets.Manifest.cache
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\staticwebassets\buoi6.StaticWebAssets.xml
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\scopedcss\bundle\buoi6.styles.css
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.TagHelpers.input.cache
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.TagHelpers.output.cache
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.RazorCoreGenerate.cache
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Accounts\ByAddress.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Accounts\ByEmail.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Accounts\Create.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Accounts\Create_customer.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Accounts\Delete.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Accounts\Details.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Accounts\Edit.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Accounts\Index.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Accounts\Login.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Carts\Create.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Carts\Delete.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Carts\Details.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Carts\Edit.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Carts\Index.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Home\Index_Customer.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\InvoiceDetails\Create.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\InvoiceDetails\Delete.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\InvoiceDetails\Details.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\InvoiceDetails\Edit.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\InvoiceDetails\Index.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\InvoiceDetails\Topsanphambanchay.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\ByAccountAddress.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\ByAccountName.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\ByProduct.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\ByProductType.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\ByTotalRange.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Create.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Delete.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Details.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Doạnhthutheongay.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Doạnhthutheotuan.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Edit.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Hoadonmoinhattrongtuan.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Index.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Sotienkhachhangdachitra.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Products\ByPriceRange.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Products\ByProductType.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Products\ByStock.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Products\Create.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Products\Delete.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Products\Details.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Products\Search.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\ProductTypes\Create.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\ProductTypes\Delete.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\ProductTypes\Details.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\ProductTypes\Edit.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\ProductTypes\Index.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Shared\_LayoutCustomer.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.RazorTargetAssemblyInfo.cache
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.RazorTargetAssemblyInfo.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\ref\buoi6.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.pdb
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\appsettings.Development.json
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\appsettings.json
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\buoi6.exe
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\buoi6.deps.json
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\buoi6.runtimeconfig.json
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\buoi6.runtimeconfig.dev.json
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\buoi6.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\ref\buoi6.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\buoi6.pdb
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\buoi6.Views.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\buoi6.Views.pdb
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Humanizer.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.Views.pdb
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.csproj.CopyComplete
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.genruntimeconfig.cache
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Doạnhthutheothang.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Doạnhthutheonam.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\InvoiceDetails\Doanhsotheongay.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\InvoiceDetails\Doanhsotheotuan.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\InvoiceDetails\Doanhsotheonam.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\InvoiceDetails\Doanhsotheothang.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\appsettings.Development.json
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\appsettings.json
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\buoi6.StaticWebAssets.xml
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\buoi6.exe
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\buoi6.deps.json
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\buoi6.runtimeconfig.json
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\buoi6.runtimeconfig.dev.json
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\buoi6.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\ref\buoi6.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\buoi6.pdb
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\buoi6.Views.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\buoi6.Views.pdb
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Humanizer.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.csproj.AssemblyReference.cache
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.GeneratedMSBuildEditorConfig.editorconfig
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.AssemblyInfoInputs.cache
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.AssemblyInfo.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.csproj.CoreCompileInputs.cache
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.MvcApplicationPartsAssemblyInfo.cache
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.RazorAssemblyInfo.cache
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.RazorAssemblyInfo.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\scopedcss\bundle\buoi6.styles.css
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\staticwebassets\buoi6.StaticWebAssets.Manifest.cache
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.TagHelpers.input.cache
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.TagHelpers.output.cache
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.RazorCoreGenerate.cache
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Accounts\ByAddress.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Accounts\ByEmail.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Accounts\Create.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Accounts\Create_customer.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Accounts\Delete.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Accounts\Details.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Accounts\Edit.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Accounts\Index.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Accounts\Login.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Carts\Create.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Carts\Delete.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Carts\Details.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Carts\Edit.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Carts\Index.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Home\Index_Customer.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\InvoiceDetails\Create.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\InvoiceDetails\Delete.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\InvoiceDetails\Details.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\InvoiceDetails\Doanhsotheonam.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\InvoiceDetails\Doanhsotheongay.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\InvoiceDetails\Doanhsotheothang.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\InvoiceDetails\Doanhsotheotuan.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\InvoiceDetails\Edit.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\InvoiceDetails\Index.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\InvoiceDetails\Topsanphambanchay.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\ByAccountAddress.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\ByAccountName.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\ByProduct.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\ByProductType.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\ByTotalRange.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Create.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Delete.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Details.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Doạnhthutheonam.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Doạnhthutheongay.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Doạnhthutheothang.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Doạnhthutheotuan.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Edit.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Hoadonmoinhattrongtuan.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Index.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Invoices\Sotienkhachhangdachitra.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Products\ByPriceRange.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Products\ByProductType.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Products\ByStock.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Products\Create.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Products\Delete.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Products\Details.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Products\Search.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\ProductTypes\Create.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\ProductTypes\Delete.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\ProductTypes\Details.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\ProductTypes\Edit.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\ProductTypes\Index.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Shared\_LayoutCustomer.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Shared\_Layout_admin.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.RazorTargetAssemblyInfo.cache
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.RazorTargetAssemblyInfo.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.Views.pdb
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.csproj.CopyComplete
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\ref\buoi6.dll
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.pdb
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\buoi6.genruntimeconfig.cache
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\InvoiceDetails\xemdoanhthu.cshtml.g.cs
+C:\QuangTrung\KTPM\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\InvoiceDetails\xemdoanhso.cshtml.g.cs

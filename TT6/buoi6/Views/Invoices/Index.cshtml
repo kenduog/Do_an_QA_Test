@@ -1,8 +1,8 @@
 ﻿@model IEnumerable<buoi6.Models.Invoice>
 
 @{
-    ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_Layout_admin.cshtml";
+    ViewData["Title"] = "Index";
 }
 
 <h1>Index</h1>
@@ -13,6 +13,9 @@
 <table class="table">
     <thead>
         <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
             <th>
                 @Html.DisplayNameFor(model => model.Code)
             </th>
@@ -40,6 +43,9 @@
     <tbody>
 @foreach (var item in Model) {
         <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Code)
             </td>

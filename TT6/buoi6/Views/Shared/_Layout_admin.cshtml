@@ -25,20 +25,10 @@
                                         aria-label="Hide Sidebar"></a>
         <!-- Navbar Right Menu-->
         <ul class="app-nav">
-            <li class="app-search">
-                <input class="app-search__input" type="search" placeholder="Search" />
-                <button class="app-search__button">
-                    <i class="fa fa-search"></i>
-                </button>
-            </li>
+            
             <!--Notification Menu-->
             <li class="dropdown">
-                <a class="app-nav__item"
-                   href="#"
-                   data-toggle="dropdown"
-                   aria-label="Show notifications">
-                    <i class="fa fa-bell-o fa-lg"></i>
-                </a>
+               
                 <ul class="app-notification dropdown-menu dropdown-menu-right">
                     <li class="app-notification__title">
                         You have 4 new notifications.
@@ -152,14 +142,9 @@
                     <i class="fa fa-user fa-lg"></i>
                 </a>
                 <ul class="dropdown-menu settings-menu dropdown-menu-right">
+                   
                     <li>
-                        <a class="dropdown-item" href="page-user.html"><i class="fa fa-cog fa-lg"></i> Settings</a>
-                    </li>
-                    <li>
-                        <a class="dropdown-item" href="page-user.html"><i class="fa fa-user fa-lg"></i> Profile</a>
-                    </li>
-                    <li>
-                        <a class="dropdown-item" href="page-login.html"><i class="fa fa-sign-out fa-lg"></i> Logout</a>
+                        <a class="dropdown-item" asp-controller="Taikhoans" asp-action="Login"><i class="fa fa-sign-out fa-lg"></i> Logout</a>
                     </li>
                 </ul>
             </li>
@@ -180,32 +165,38 @@
                     <i class="app-menu__icon fa fa-dashboard"></i><span class="app-menu__label">Trang chủ</span>
                 </a>
             </li>
-
+          
             <li>
-                <a class="app-menu__item active" asp-area="" asp-controller="Accounts" asp-action="Index">
+                <a class="app-menu__item active" asp-controller="Accounts" asp-action="Index">
                     <i class="app-menu__icon fa fa-dashboard"></i><span class="app-menu__label">Tài khoản</span>
                 </a>
             </li>
 
             <li>
-                <a class="app-menu__item active" asp-area="" asp-controller="Products" asp-action="Index">
+                <a class="app-menu__item active" asp-controller="Products" asp-action="Index">
                     <i class="app-menu__icon fa fa-dashboard"></i><span class="app-menu__label">Sản phẩm</span>
                 </a>
             </li>
+
             <li>
-                <a class="app-menu__item active" asp-area="" asp-controller="ProductTypes" asp-action="Index">
+                <a class="app-menu__item active" asp-controller="ProductTypes" asp-action="Index">
                     <i class="app-menu__icon fa fa-dashboard"></i><span class="app-menu__label">Loại sản phẩm</span>
                 </a>
             </li>
 
             <li>
-                <a class="app-menu__item active" asp-area="" asp-controller="Invoices" asp-action="Index">
+                <a class="app-menu__item active" asp-controller="Invoices" asp-action="Index">
                     <i class="app-menu__icon fa fa-dashboard"></i><span class="app-menu__label">Hóa đơn</span>
                 </a>
             </li>
             <li>
-                <a class="app-menu__item active" asp-area="" asp-controller="InvoiceDetails" asp-action="Index">
+                <a class="app-menu__item active" asp-controller="InvoiceDetails" asp-action="Index">
                     <i class="app-menu__icon fa fa-dashboard"></i><span class="app-menu__label">Chi tiết hóa đơn</span>
+                </a>
+            </li>
+            <li>
+                <a class="app-menu__item active" asp-controller="Carts" asp-action="Index">
+                    <i class="app-menu__icon fa fa-dashboard"></i><span class="app-menu__label">Giỏ hàng</span>
                 </a>
             </li>
 
@@ -213,7 +204,7 @@
     </aside>
 
 
-    @RenderBody();
+    @RenderBody()
 
 
 

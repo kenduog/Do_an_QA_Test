@@ -23,6 +23,7 @@ namespace buoi6.Controllers
         // GET: Carts
         public async Task<IActionResult> Index()
         {
+
             var eshopContext = _context.Cart.Include(c => c.Account).Include(c => c.Product);
             return View(await eshopContext.ToListAsync());
         }
@@ -166,7 +167,7 @@ namespace buoi6.Controllers
         {
             return Add(id,1);
         }
-        public string SessionKeyName()
+        public string CookiesKeyName()
         {
             var name= HttpContext.Request.Cookies["AccountUsername"].ToString();
             return name;
@@ -175,7 +176,7 @@ namespace buoi6.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Add(int productId,int Quantity)
         {
-                int accId = _context.Account.FirstOrDefault(a => a.Username == SessionKeyName()).Id;
+                int accId = _context.Account.FirstOrDefault(a => a.Username == CookiesKeyName()).Id;
                 Cart cart = _context.Cart.FirstOrDefault(c => c.AccountId == accId && c.ProductId == productId);
                 if (cart == null)
                 {
