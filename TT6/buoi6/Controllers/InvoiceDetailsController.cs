@@ -21,6 +21,15 @@ namespace buoi6.Controllers
         }
 
         // GET: InvoiceDetails
+
+        public async Task<IActionResult> xemdoanhthu()
+        {
+            return View();
+        }
+        public async Task<IActionResult> xemdoanhso()
+        {
+            return View();
+        }
         public async Task<IActionResult> Index()
         {
             var eshopContext = _context.InvoiceDetails.Include(i => i.Invoice).Include(i => i.Product);

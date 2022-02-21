@@ -11,20 +11,24 @@
     {
         username= "Khách";
     }
-    Layout = "_LayoutCustomer";
+    Layout = "~/Views/Shared/_Layout_user1.cshtml";
+
+    
+
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome @username</h1>
-    <p>Trang Khách Hàng</p>
+     <div><h1 class="display-4">Welcome @username</h1></div>
+   <div>  <p>Trang Khách Hàng</p></div>
     <div>Chức năng quản lý</div>
     <ul>
         <li class="nav-item">
-            <a class="nav-link text-dark" asp-area="" asp-controller="Accounts" asp-action="Logout">Đăng xuất</a>
-            <a class="nav-link text-dark" asp-area="" asp-controller="Products" asp-action="danhsachsp">Danh sách sản phẩm</a>
-            <a class="nav-link text-dark" asp-area="" asp-controller="ProductTypes" asp-action="danhsachloaisp">Danh sách loại sản phẩm</a>
-            <a class="nav-link text-dark" asp-area="" asp-controller="Carts" asp-action="Giokhachhang">Xem giỏ hàng</a>
-            <a class="nav-link text-dark" asp-area="" asp-controller="Accounts" asp-action="thongtincanhan" asp-route-id="@Convert.ToInt32(id)">>Thông tin cá nhân</a>
+            <div><a class="nav-link text-dark" asp-area="" asp-controller="Accounts" asp-action="Logout">Đăng xuất</a></div>
+           
+            <div><a class="nav-link text-dark" asp-area="" asp-controller="Products" asp-action="danhsachsp">Danh sách sản phẩm</a></div>
+             <div><a class="nav-link text-dark" asp-area="" asp-controller="ProductTypes" asp-action="danhsachloaisp">Danh sách loại sản phẩm</a></div>
+            <div> <a class="nav-link text-dark" asp-area="" asp-controller="Carts" asp-action="Giokhachhang">Xem giỏ hàng</a></div>
+          <div>   <a class="nav-link text-dark" asp-area="" asp-controller="Accounts" asp-action="thongtincanhan" asp-route-id="@Convert.ToInt32(id)">Thông tin cá nhân</a></div>
         </li>
     </ul>
 </div>

@@ -1,0 +1,23 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout_admin.cshtml";
+    ViewData["Title"] = "Xem doanh thu";
+
+}
+
+
+<div>Xem doanh số</div>
+<ul>
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="" asp-controller="InvoiceDetails" asp-action="Doanhsotheongay">Doanh số theo ngày</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="" asp-controller="InvoiceDetails" asp-action="Doanhsotheotuan">Doanh số theo tuần</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="" asp-controller="InvoiceDetails" asp-action="Doanhsotheothang">Doanh số theo tháng</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="" asp-controller="InvoiceDetails" asp-action="Doanhsotheonam">Doanh số theo năm</a>
+    </li>
+    
+ </ul>
