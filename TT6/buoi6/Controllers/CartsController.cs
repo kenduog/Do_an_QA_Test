@@ -27,6 +27,12 @@ namespace buoi6.Controllers
             var eshopContext = _context.Cart.Include(c => c.Account).Include(c => c.Product);
             return View(await eshopContext.ToListAsync());
         }
+        public async Task<IActionResult> Giokhachhang()
+        {
+
+            var eshopContext = _context.Cart.Include(c => c.Account).Include(c => c.Product);
+            return View(await eshopContext.ToListAsync());
+        }
         // GET: Carts/Details/5
         public async Task<IActionResult> Details(int? id)
         {
@@ -75,6 +81,22 @@ namespace buoi6.Controllers
 
         // GET: Carts/Edit/5
         public async Task<IActionResult> Edit(int? id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+
+            var cart = await _context.Cart.FindAsync(id);
+            if (cart == null)
+            {
+                return NotFound();
+            }
+            ViewData["AccountId"] = new SelectList(_context.Account, "Id", "Id", cart.AccountId);
+            ViewData["ProductId"] = new SelectList(_context.Product, "Id", "Id", cart.ProductId);
+            return View(cart);
+        }
+        public async Task<IActionResult> Thaysoluong(int? id)
         {
             if (id == null)
             {
@@ -193,5 +215,36 @@ namespace buoi6.Controllers
                 _context.SaveChanges();
                 return RedirectToAction("Index");
         }
+        public IActionResult Add_cu(int id)
+        {
+            return Add_cu(id, 1);
+        }
+        public string CookiesKeyName_cu()
+        {
+            var name = HttpContext.Request.Cookies["AccountUsername"].ToString();
+            return name;
+        }
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Add_cu(int productId, int Quantity)
+        {
+            int accId = _context.Account.FirstOrDefault(a => a.Username == CookiesKeyName()).Id;
+            Cart cart = _context.Cart.FirstOrDefault(c => c.AccountId == accId && c.ProductId == productId);
+            if (cart == null)
+            {
+                cart = new Cart();
+                cart.AccountId = accId;
+                cart.ProductId = productId;
+                cart.Quantity = Quantity;
+                _context.Cart.Add(cart);
+            }
+            else
+            {
+                cart.Quantity += Quantity;
+            }
+            _context.SaveChanges();
+            return RedirectToAction("Giokhachhang");
+        }
     }
+    
 }

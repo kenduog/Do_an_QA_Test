@@ -592,3 +592,9 @@ D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug
 D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\InvoiceDetails\Doanhsotheotuan.cshtml.g.cs
 D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\InvoiceDetails\Doanhsotheonam.cshtml.g.cs
 D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\InvoiceDetails\Doanhsotheothang.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Products\danhsachsp.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\ProductTypes\danhsachloaisp.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Carts\Giokhachhang.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Carts\Thaysoluong.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Products\chitietsp.cshtml.g.cs
+D:\Edit ASPdotNET_CORE\24_12_21 Do_an\Asp_Doan\Do_an_QA_Test\TT6\buoi6\obj\Debug\net5.0\Razor\Views\Accounts\thongtincanhan.cshtml.g.cs

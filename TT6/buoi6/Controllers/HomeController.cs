@@ -34,7 +34,14 @@ namespace buoi6.Controllers
             }
             return View();
         }
-
+        public IActionResult Index_Customer_ID()
+        {
+            if (HttpContext.Request.Cookies.ContainsKey("AccountID"))
+            {
+                ViewBag.Account_Id = HttpContext.Request.Cookies["AccountID"].ToString();
+            }
+            return View();
+        }
         public IActionResult Privacy()
         {
             return View();

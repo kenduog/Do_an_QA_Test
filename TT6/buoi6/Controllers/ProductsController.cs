@@ -46,6 +46,32 @@ namespace buoi6.Controllers
             }
             return View(await search.ToListAsync());
         }
+        public async Task<IActionResult> danhsachsp(string SKU, string ProductName, string Decription, string Price, string type)
+        {
+            var search = (from i in _context.Product.Include(p => p.ProductType)
+                          select i);
+            if (!String.IsNullOrEmpty(SKU))
+            {
+                search = search.Where(s => s.SKU.Contains(SKU));
+            }
+            if (!String.IsNullOrEmpty(ProductName))
+            {
+                search = search.Where(s => s.Name.Contains(ProductName));
+            }
+            if (!String.IsNullOrEmpty(Decription))
+            {
+                search = search.Where(s => s.Deccription.Contains(Decription));
+            }
+            if (!String.IsNullOrEmpty(Price))
+            {
+                search = search.Where(s => s.Price == Convert.ToInt32(Price));
+            }
+            if (!String.IsNullOrEmpty(type))
+            {
+                search = search.Where(s => s.ProductType.Name.Contains(type));
+            }
+            return View(await search.ToListAsync());
+        }
         public async Task<IActionResult> ByPriceRange()
         {
             var eshopContext = _context.Product.Include(p => p.ProductType).Where(s=> s.Price >= 40000 && s.Price <= 60000);

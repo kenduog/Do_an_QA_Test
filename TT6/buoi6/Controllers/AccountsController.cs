@@ -172,7 +172,35 @@ namespace buoi6.Controllers
             }
             return View(account);
         }
+        public async Task<IActionResult> thongtincanhan(int id, [Bind("Id,Username,Password,Email,Phone,Address,FullName,IsAdmin,Avatar,TrangThai")] Account account)
+        {
+            if (id != account.Id)
+            {
+                return NotFound();
+            }
 
+            if (ModelState.IsValid)
+            {
+                try
+                {
+                    _context.Update(account);
+                    await _context.SaveChangesAsync();
+                }
+                catch (DbUpdateConcurrencyException)
+                {
+                    if (!AccountExists(account.Id))
+                    {
+                        return NotFound();
+                    }
+                    else
+                    {
+                        throw;
+                    }
+                }
+                return RedirectToAction(nameof(Index));
+            }
+            return View(account);
+        }
         // GET: Accounts/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {

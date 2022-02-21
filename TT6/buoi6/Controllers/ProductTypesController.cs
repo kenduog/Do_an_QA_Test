@@ -24,7 +24,11 @@ namespace buoi6.Controllers
         {
             return View(await _context.ProductType.ToListAsync());
         }
-      
+        public async Task<IActionResult> danhsachloaisp()
+        {
+            return View(await _context.ProductType.ToListAsync());
+        }
+
         // GET: ProductTypes/Details/5
         public async Task<IActionResult> Details(int? id)
         {
